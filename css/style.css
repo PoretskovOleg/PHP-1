@@ -1,0 +1,115 @@
+.header {
+  text-align: center;
+}
+.menu li a {
+  text-decoration: none;
+  color: red;
+  font-size: 25px;
+}
+.menu li {
+  display: inline-block;
+  margin-right: 50px;
+}
+.images {
+  width: 80%;
+  margin: 0 auto;
+}
+.image {
+  float: left;
+  text-align: center;
+  margin: 10px 5px;
+}
+.catalog {
+  width: 80%;
+  margin: 0 auto;
+}
+.product {
+  float: left;
+  text-align: center;
+  margin: 10px 10px;
+}
+.add_foto {
+  text-align: center;
+  margin-top: 50px;
+}
+.add_foto input {
+  width: 400px;
+  background: lightblue;
+}
+.add_foto span {
+  font-size: 20px;
+}
+.add_foto button {
+  background: lightgreen;
+  font-size: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px grey;
+}
+.clear_float {
+  clear: both;
+}
+.img {
+  text-align: center;
+  margin-top: 10px;
+}
+h2 {
+  text-align:center;
+}
+.calc_1 div, .calc_2 div {
+  float: left;
+  margin-right: 20px;
+}
+.calc_1 input {
+  width: 100px;
+  height: 30px;
+  font-size: 25px;
+  text-align: center;
+}
+.calc_1 label, calc_2 label {
+  height: 20px;
+  font-size: 18px;
+}
+.calc_1 select {
+  width: 100px;
+  height: 30px;
+  font-size: 14px;
+  text-align: center;
+}
+.calc_1 button {
+  margin-top: 20px;
+  height: 36px;
+  width: 50px;
+  font-size: 25px;
+}
+.calc_2 button {
+  padding: 0;
+  margin-top: 8px;
+  margin-left: 20px;
+  height: 25px;
+  width: 25px;
+  font-size: 20px;
+  line-height: 20px;
+}
+.calc_2 input {
+  width: 100px;
+  height: 45px;
+  font-size: 25px;
+  text-align: center;
+}
+.calc_2 input[type='text'] {
+  height: 130px;
+  font-size: 50px;
+}
+.select {
+  border: 2px solid red;
+}
+.about_product {
+  text-align: left;
+}
+.about_product ul {
+  padding-left: 450px;
+}
+.content_product {
+  width: 90%;
+  margin: 0 auto;
+}
